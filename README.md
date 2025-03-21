@@ -6,10 +6,12 @@
   - [Java-based console application](https://github.com/OshUoW/SeatManagamentSys)
 - <b>Image Gallery</b>
   - [Implemented using HTML, CSS, and JavaScript](https://github.com/OshUoW/Image-Gallery) 
-- <b>Property Searching Web Applicationl</b>
+- <b>Property Searching Web Application</b>
   - [Responsive web application using React,HTML and Javascript](https://github.com/OshUoW/PropertyListing)
-- <b>20 x 2 Number Guessing Game)</b>
+- <b>20 x 2 Number Guessing Game</b>
   - [A command-line dice game written in Python](https://github.com/OshUoW/NumberGuessingGame)
+- <b>Progression Outcome Prediction System</b>
+  - [Python-based application](https://github.com/OshUoW/MarkingSystem)
 
 
 <h2>Games for Fun: </h2>
