@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oshani Jay! <br/><a href="https://github.com/OshUoW">Programmer</a>, <a href="https://www.behance.net/oshanijayawar">UI/UX Enthusiast</a></h1>
+<h1>Hi, I'm Oshani Jayawardena! <br/><a href="https://github.com/OshUoW">Programmer</a>, <a href="https://www.behance.net/oshanijayawar">UI/UX Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
