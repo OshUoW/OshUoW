@@ -14,7 +14,7 @@
   - [Python-based application](https://github.com/OshUoW/MarkingSystem)
 - <b>Ayura Website (Grouped)</b>
   - [Implemented using HTML, CSS, and JavaScript](https://github.com/OshUoW/Ayura)
-- <b>Real-time Even Ticketing System</b>
+- <b>Real-time Event Ticketing System</b>
   - [Efficient ticket management using a command-line interface (CLI), a backend API built with Spring Boot, and a front-end application developed in Angular.](https://github.com/OshUoW/Realtime-Event-Ticketing-System)
 
 
