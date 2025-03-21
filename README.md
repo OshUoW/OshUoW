@@ -12,7 +12,8 @@
   - [A command-line dice game written in Python](https://github.com/OshUoW/NumberGuessingGame)
 - <b>Progression Outcome Prediction System</b>
   - [Python-based application](https://github.com/OshUoW/MarkingSystem)
-
+- <b>Ayura Website (Grouped)</b>
+  - [Implemented using HTML, CSS, and JavaScript](https://github.com/OshUoW/Ayura)
 
 <h2>Games for Fun: </h2>
 
